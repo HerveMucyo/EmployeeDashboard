@@ -1,6 +1,3 @@
-Here's your **"Employee Data Dashboard"** documentation converted into a **well-formatted, clean, and readable version** with proper headings, bullet points, and font hierarchy. You can use this in a Markdown file (`README.md`) or adapt it to Word/Google Docs with formatting.
-
----
 
 # 📊 Employee Data Dashboard
 
