@@ -242,5 +242,3 @@ For issues or suggestions:
 * Contact the repository owner directly.
 
 ---
-
-Would you like this as a downloadable PDF or formatted for a specific platform (e.g., GitHub README, Word, Google Docs)?
